@@ -1,0 +1,71 @@
+:root {
+    --base-size: 1rem; /* 16px */
+    /* --scale: ; */
+
+    --heading-font-family: 'Catamaran', sans-serif;
+    --subheading-font-family: 'PT Sans', sans-serif; 
+    --paragraph-font-family: 'Merriweather Sans', sans-serif;
+
+    --size-48: 3rem; 
+    --size-40: 2.5rem;
+    --size-32: 2rem;
+    --size-28: 1.75rem;
+    --size-24: 1.5rem;
+    --size-20: 1.25rem;
+    --size-18: 1.125rem;
+    --size-14: 0.875rem;
+
+
+
+    /* colors */
+    --neutral-1: #FFFFFF;
+    --neutral-2: #EDEDED;
+    --neutral-3: #DBDBDB;
+    --neutral-20: #080808;
+    --neutral-21: #000;
+
+    --brand-primary-1-t1: #99C1F3;
+    --brand-primary-1-s6: #000A16;
+    
+    --brand-primary-2-s2: #153A68;
+    --brand-primary-2-s3: #0E2745;
+    --brand-primary-2-s6: #030A11;
+
+    --brand-secondary-1-t1: #93E8FF;
+    --brand-secondary-1-t3: #27D3FF;
+    
+    --brand-secondary-2: #13C1EC;
+    --brand-secondary-2-s1: #0F9ABD;
+    
+    --brand-secondary-3-s2: #175F71;
+
+    --brand-tertiary-s6: #00001A;
+    
+    --accent-primary-1: #BD003F;
+    --accent-primary-1-s1: #970032;
+    --accent-primary-1-s2: #710026;
+    --accent-primary-1-s3: #4C0019;
+    --accent-primary-1-s4: #26000D;
+    
+    --accent-primary-2-s4: #26040F;
+
+    --accent-secondary-1-t1: #99F9DB;
+    --accent-secondary-1-t1: #00F0A5;
+
+
+    /* STYLES */
+    /* bg abstract 1_16-9; */
+    /* bg primary gradient radial */
+    /* stroke top bottom blue */
+    /* linear */
+
+}
+
+html {
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
