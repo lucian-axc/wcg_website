@@ -6,7 +6,7 @@
     TYPOGRAPHY
 ================ */
 
-.wrapper p, .wrapper a {
+.wrapper p, .wrapper li, .wrapper a {
     font-family: var(--paragraph-font-family);
     font-size: var(--size-18);
     font-weight: 300;
@@ -41,7 +41,7 @@
     font-size: var(--size-24);
 }
 
-.wrapper p {
+.wrapper p, .wrapper li {
     color: var(--brand-secondary-1-t1);
 }
 
