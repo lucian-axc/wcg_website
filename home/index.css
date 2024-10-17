@@ -1,0 +1,90 @@
+.wrapper {
+    background-color: black;
+}
+
+/* =============
+    TYPOGRAPHY
+================ */
+
+h1, h2 {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-40);
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+h1,
+h2,
+.carousel p {
+    color: var(--neutral-1);
+    text-shadow: var(--heading-shadow);
+}
+
+.carousel h2 {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-40);
+}
+
+h1 {
+    font-size: var(--size-48);
+    color: var(--neutral-1);
+}
+
+h4,
+.carousel p {
+    font-family: var(--subheading-font-family);
+    font-size: var(--size-32);
+    font-style: italic;
+}
+
+.carousel p {
+    color: var(--neutral-1);    
+}
+
+.benefits h4 {
+    color: var(--neutral-2);
+}
+
+p, a {
+    font-family: var(--paragraph-font-family);
+    font-size: var(--size-18);
+    font-weight: 300;
+}
+
+p {
+    color: var(--brand-secondary-1-t1);
+}
+
+a {
+    color: var(--accent-secondary-1);
+}
+
+.benefits button {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-32);
+    font-weight: 600;
+    color: var(--neutral-2);
+}
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
