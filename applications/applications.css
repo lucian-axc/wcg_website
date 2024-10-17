@@ -1,2 +1,72 @@
-/* TYPOGRAPHY */
+.wrapper {
+    background-color: black;
+}
 
+/* =============
+    TYPOGRAPHY
+================ */
+
+.wrapper p, .wrapper a {
+    font-family: var(--paragraph-font-family);
+    font-size: var(--size-18);
+    font-weight: 300;
+}
+
+.wrapper h1,
+.wrapper h2,
+.wrapper h3 {
+    text-transform: uppercase;
+}
+
+.wrapper h2, .wrapper h3 {
+    font-style: italic;
+    color: var(--neutral-2);
+}
+
+.wrapper h1 {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-48);
+    font-weight: 600;
+    color: var(--neutral-1);
+    text-shadow: var(--heading-shadow);
+}
+
+.wrapper h2 {
+    font-family: var(--subheading-font-family);
+    font-size: var(--size-32);
+}
+
+.wrapper h3 {
+    font-family: var(--subheading-font-family);
+    font-size: var(--size-24);
+}
+
+.wrapper p {
+    color: var(--brand-secondary-1-t1);
+}
+
+.wrapper a {
+    color: var(--accent-secondary-1);
+}
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
