@@ -59,6 +59,9 @@
     /* stroke top bottom blue */
     /* linear */
 
+    /* SHADOWS */
+    --heading-shadow: 4px 4px 4px #000;
+
 }
 
 html {

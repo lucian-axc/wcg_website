@@ -1,1 +1,72 @@
-/* TYPOGRAPHY */
+.wrapper {
+    background-color: black;
+}
+
+
+/* =============
+    TYPOGRAPHY 
+================ */
+form > *,
+.wrapper p {
+    font-weight: 300;
+}
+
+form input[type="submit"],
+.wrapper h2,
+.wrapper h4 {
+    font-weight: 600;
+}
+
+form > * {
+    font-family: var(--paragraph-font-family);
+    font-size: var(--size-20);
+    color: var(--neutral-3);
+}
+
+form input[type="submit"] {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-24);
+}
+
+.wrapper h2 {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-40);
+    color: var(--neutral-1);
+    text-shadow: var(--heading-shadow);
+}
+
+.wrapper h4 {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-24);
+    color: var(--neutral-2);
+}
+
+.wrapper p {
+    font-family: var(--paragraph-font-family);
+    font-size: var(--size-20);
+    font-weight: 300;
+    color: var(--brand-secondary-1-t1);
+}
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
