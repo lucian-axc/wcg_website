@@ -1,0 +1,219 @@
+.wrapper {
+    background-color: black;
+}
+
+/* =============
+    TYPOGRAPHY
+================ */
+
+h1, h2 {
+    font-family: var(--heading-font-family);
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--neutral-1);
+    text-shadow: var(--heading-shadow);
+}
+
+h1 {
+    font-size: var(--size-48);
+}
+
+h2 {
+    font-size: var(--size-40);
+}
+
+.products-profile-container p,
+.products-profile-container a,
+.mobile-unit-container p,
+.mobile-unit-container a {
+    font-family: var(--paragraph-font-family);
+    font-size: var(--size-18);
+    font-weight: 300;
+    color: var(--brand-secondary-1-t1);
+}
+
+.products-profile-container a,
+.mobile-unit-container a {
+    color: var(--accent-secondary-1);
+}
+
+.products-profile-container .card p {
+    color: var(--neutral-2);
+}
+
+.mobile-unit-container .subtitle {
+    font-family: var(--subheading-font-family);
+    font-size: var(--size-32);
+    font-weight: 300;
+    font-style: italic;
+    text-shadow: var(--heading-shadow);
+}
+
+.solution-container .subtitle {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-40);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.mobile-unit-container .subtitle,
+.solution-container .subtitle,
+.solution-container .card q,
+.solution-container .card hr,
+.feature p,
+.feature a {
+    color: var(--neutral-2);
+}
+
+.solution-container .card p {
+    font-family: var(--paragraph-font-family);
+    font-size: var(--size-16);
+    font-weight: 300;
+    color: var(--neutral-3);
+}
+
+.solution-container .card q {
+    font-family: var(--subheading-font-family);
+    font-size: var(--size-20);
+    font-weight: 300;
+    font-style: italic;
+}
+
+.feature .subtitle,
+.specifications-container .subtitle {
+    font-family: var(--subheading-font-family);
+    font-size: var(--size-28);
+    font-style: italic;
+    color: var(--accent-primary-1-s2);
+}
+
+.feature p {
+    font-family: var(--paragraph-font-family);
+    font-size: var(--size-18);
+}
+
+.feature,
+.specifications-container {
+    font-weight: 300;
+}
+
+.feature span {
+    text-transform: uppercase;
+}
+
+.specifications-container .subtitle {
+    font-family: var(--subheading-font-family);
+    font-size: var(--size-28);
+    color: var(--accent-primary-1-s1);
+}
+
+.specifications-container ul {
+    font-family: var(--paragraph-font-family);
+    font-size: var(--size-18);
+    color: var(--neutral-3);
+    list-style-type: circle;
+}
+
+.team .name,
+.sdu-subtitle {
+    font-weight: 600;
+}
+
+.team .name {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-24);
+    color: var(--brand-secondary-2);
+}
+
+.sdu-subtitle {
+    font-family: var(--heading-font-family);
+    font-size: var(--size-32);
+}
+
+.team .role,
+.prototype-version,
+.pj-team-name,
+.prototype .name span {
+    font-family: var(--subheading-font-family);
+    font-weight: 300;
+    font-style: italic;
+}
+
+.team .role,
+.prototype .name span {
+    font-size: var(--size-20);
+}
+
+.prototype-version {
+    font-size: var(--size-24);
+    text-transform: uppercase;
+}
+
+.prototype-version span {
+    text-transform: lowercase;
+}
+
+.pj-team-name {
+    font-size: var(--size-28);
+}
+
+.team .role,
+.sdu-subtitle,
+.team .pj-team-name,
+.team .prototype span {
+    color: var(--neutral-3);
+}
+
+.sdu-subtitle,
+.prototype-version {
+    color: var(--neutral-2);
+}
+
+.timeline h2 span {
+    text-transform: lowercase;
+}
+
+.timeline .event,
+.timeline .event-date {
+    font-size: var(--size-24);
+}
+
+.timeline .event {
+    font-family: var(--heading-font-family);
+    font-weight: 600;
+    color: var(--neutral-1);
+}
+
+.timeline .event-date {
+    font-family: var(--subheading-font-family);
+    font-weight: 300;
+    font-style: italic;
+    color: var(--accent-secondary-1-t1);
+}
+
+
+header {
+    margin-bottom: 5em;
+}
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
+
+
+
+/* =============
+    
+================ */
