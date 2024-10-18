@@ -14,46 +14,6 @@ main {
 }
 /* border: 1px solid crimson; */
 
-/* HEADER SECTION */
-header {
-    display: grid;
-    grid-template: 1fr 1fr / 1fr;
-    background: var(--neutral-21);
-}
-
-header > * {
-    margin: 0 auto;
-}
-header img {    
-    width: 200px;
-}
-
-nav {
-    margin-bottom: 3rem;
-    width: 100%;
-    text-align: center;
-}
-nav a {
-    font-family: var(--heading-font-family);
-    font-size: var(--size-32);
-    color: var(--brand-secondary-1-t3);
-    text-decoration: none;
-}
-nav ul {
-    display: flex;
-    flex-flow: column wrap;
-    gap: .5rem;
-}
-nav li {
-
-}
-
-@media (min-width: 800px) {
-    header {
-        grid-template: 1fr / 30% 70%;
-    }
-}
-
 
 /* INTRO-1 SECTION */
 section.intro-1 {
